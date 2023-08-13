@@ -1,5 +1,5 @@
-import StopWatch_One from "./assets/components/StopWatch_One"
-import StopWatch_Two from "./assets/components/StopWatch_Two"
+import StopWatch_One from "./components/StopWatch_One"
+import StopWatch_Two from "./components/StopWatch_Two"
 
 
 
